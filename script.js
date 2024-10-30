@@ -6,4 +6,4 @@ let choice = ('rede/cama/chão')
 
 alert('resumo das escolhas')
 
-alert('obrigado!')
+alert('obrigado!');
