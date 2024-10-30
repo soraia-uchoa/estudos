@@ -6,4 +6,4 @@ let choice = prompt('vc quer dormir aonde? (rede/cama/chão)?')
 
 alert('resumo das escolhas')
 
-alert('obrigado, ' + nome + '!');
+alert('obrigado, ' + name + '!');
